@@ -4,10 +4,9 @@
 
 Laravel 8 blog dibaut oleh :
 
-- Github : <a href="https://github.com/musyahya/laravel_8_blog"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
 
 ## Fitur 
+
 
 - Autentikasi Admin, Penulis dan Pembaca
 - CRUD Kategori
@@ -113,4 +112,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 Musyahya.
+- Copyright © 2021 Muhammad Aidil Rifaldi.
